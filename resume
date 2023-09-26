@@ -1,0 +1,69 @@
+<html>
+<head>
+<style>
+header
+{background-color: #FFB6C1;
+  font-family: "copperplate", fantasy;
+  font-size: 2.5em;
+}
+aside {
+  width: .5%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: left;
+}
+footer
+{background-color: #FFB6C1;
+  font-family: "copperplate", fantasy;
+  font-size: 1em;
+}
+</style>
+</head>
+<body>
+  <header> <center>Caroline N. Sellers </center></header>
+<h3><center>754 E 6th St, Boston, MA 02127</center></h3>
+
+<aside>
+
+</aside>
+<section id="summary">
+<h2>Summary</h2>
+An experienced writer and editor, Caroline received her undergraduate degree in journalism from the University of Arkansas in 2021 and is currenly pursuing her master's degree in publishing and writing from Emerson College. 
+  </section>
+<section id="experience">
+<h2>Professional Experience</h2>
+Team Leader & Sales Associate, L.L. Bean, 2022-2023<br>
+Administrative Assistant, 1st Employment, 2022-2022<br>
+Contributor & Intern, Arkansascovid.com, 2021-2021<br>
+Social Media Intern, Bentonville Chamber of Commerce, 2021-2021<br>
+Social Media Intern, Arkansas Soul, 2021-2021
+  </section>
+<section id="education">
+<h2>Education</h2>
+University of Arkansas, 2021: Bachelor of Arts, Journalism<br>
+Emerson College, 2023: Master of Arts, Publishing and Writing
+  </section>
+<section id="awards">
+<h2>Awards</h2>
+2021 Investigative Reporters and Editors Fellowship Recipient
+  </section>
+  <section id="skills">
+<h2>Skills</h2>
+<h3>Software</h3>
+Adobe Creative Cloud<br>
+Microsoft Office Suite<br>
+WordPress
+<h3>Soft Skills</h3>
+Time management<br>
+Strong communication skills<br>
+Detail-oriented<br>
+Strong editing skills 
+  </section>
+  <p>
+  <footer><center>
+    Email me: caroline_sellers@emerson.edu </center>
+  </footer>
+</body>
+</html>
